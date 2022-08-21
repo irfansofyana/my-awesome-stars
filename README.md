@@ -32,7 +32,6 @@
 - [muhammadhasan01/cp](https://github.com/muhammadhasan01/cp) - Collection of My Competitive Programming Codes
 - [dragonslayerx/Competitive-Programming-Repository](https://github.com/dragonslayerx/Competitive-Programming-Repository) - Competitive Programming templates that I used during the past few years.
 - [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm) - C++ Implementation of Algorithms (aka. Spaghetti Source)
-- [irfansofyana/contests](https://github.com/irfansofyana/contests) - Solutions to various CP contests (especially Indonesian local contests)
 - [mostafa-saad/ArabicCompetitiveProgramming](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) - The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.
 
 ## CSS 
@@ -89,6 +88,7 @@
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+- [irfansofyana/contests](https://github.com/irfansofyana/contests) - Solutions to various CP contests (especially Indonesian local contests)
 
 ## Java 
 
