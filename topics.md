@@ -184,6 +184,7 @@
 
 ## awesome-list 
 
+- [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
