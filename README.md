@@ -146,6 +146,7 @@
 
 ## Others 
 
+- [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
