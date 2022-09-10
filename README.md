@@ -314,7 +314,7 @@
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - :books: PinterCoding University. Lets Destroy Node.js developer.
-- [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with ReactJs
+- [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
 
 ## Zig 
 
