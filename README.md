@@ -313,6 +313,7 @@
 
 ## TypeScript 
 
+- [yamlscript/yamlscript](https://github.com/yamlscript/yamlscript) - Use YAML syntax to define a set of tasks declaratively, YAMLScript will compile it into Javascript code that runs on Deno. Think about Lisp, but in YAML
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
