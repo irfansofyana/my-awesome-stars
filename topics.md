@@ -19,6 +19,8 @@
 - [bitcoin](#bitcoin)
 - [bot](#bot)
 - [c](#c)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
 - [code-quality](#code-quality)
@@ -262,6 +264,14 @@
 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 
+## chrome 
+
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
+
+## chrome-extension 
+
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
+
 ## cli 
 
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
@@ -346,6 +356,7 @@
 
 ## data-structures 
 
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [AlgoWiki/AlgoWiki](https://github.com/AlgoWiki/AlgoWiki) - A wiki dedicated to competitive programming
 - [muhammadhasan01/cp](https://github.com/muhammadhasan01/cp) - Collection of My Competitive Programming Codes
@@ -464,12 +475,14 @@
 
 ## github 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 
 ## github-api 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
@@ -544,6 +557,7 @@
 
 ## hacktoberfest 
 
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -575,6 +589,7 @@
 
 ## javascript 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
@@ -743,6 +758,7 @@
 
 ## others 
 
+- [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
