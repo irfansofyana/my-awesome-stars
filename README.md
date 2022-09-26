@@ -250,6 +250,7 @@
 
 ## Python 
 
+- [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -323,6 +324,7 @@
 
 ## TypeScript 
 
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [yamlscript/yamlscript](https://github.com/yamlscript/yamlscript) - Use YAML syntax to define a set of tasks declaratively, YAMLScript will compile it into Javascript code that runs on Deno. Think about Lisp, but in YAML
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
