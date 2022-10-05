@@ -781,6 +781,7 @@
 
 ## others 
 
+- [cep21/circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
