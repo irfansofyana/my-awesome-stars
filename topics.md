@@ -41,6 +41,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
@@ -85,6 +86,7 @@
 - [markdown](#markdown)
 - [mongodb](#mongodb)
 - [mongoose](#mongoose)
+- [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
@@ -299,6 +301,7 @@
 
 ## cli 
 
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -414,6 +417,10 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 
+## deployment 
+
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
+
 ## design 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
@@ -421,6 +428,7 @@
 
 ## devops 
 
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -708,6 +716,7 @@
 
 ## kubernetes 
 
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
@@ -779,6 +788,10 @@
 
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
 
+## monitoring 
+
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
+
 ## mysql 
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -841,6 +854,7 @@
 
 ## open-source 
 
+- [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [GoldinGuy/CollegeCompendium](https://github.com/GoldinGuy/CollegeCompendium) - 📓 A curated collection of free public Computer Science classes from colleges across America
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
