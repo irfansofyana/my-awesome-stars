@@ -32,7 +32,7 @@
 
 ## C++ 
 
-- [Shubhamlmp/Programming-Practice](https://github.com/Shubhamlmp/Programming-Practice) - Newcomers Programming Practice Problems
+- [Shubhamlmp/Programming-Practice](https://github.com/Shubhamlmp/Programming-Practice) - Repository accepting PR for Hactoberfest 2022
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [muhammadhasan01/cp](https://github.com/muhammadhasan01/cp) - Collection of My Competitive Programming Codes
 - [dragonslayerx/Competitive-Programming-Repository](https://github.com/dragonslayerx/Competitive-Programming-Repository) - Competitive Programming templates that I used during the past few years.
