@@ -283,7 +283,7 @@
 
 ## bitcoin 
 
-- [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. Sponsored by https://sendletter.org, the Easiest way to Send Letters
+- [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
 
 ## bot 
 
@@ -358,7 +358,7 @@
 
 ## cryptocurrency 
 
-- [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. Sponsored by https://sendletter.org, the Easiest way to Send Letters
+- [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
 
 ## css 
 
