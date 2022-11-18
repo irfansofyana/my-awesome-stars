@@ -320,6 +320,7 @@
 
 ## Scala 
 
+- [softwaremill/elasticmq](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
 - [Anant/Cassandra.Realtime](https://github.com/Anant/Cassandra.Realtime) - Different ways to process data into Cassandra in realtime with technologies such as Kafka, Spark, Akka, Flink
 
