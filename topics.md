@@ -543,6 +543,7 @@
 
 ## go 
 
+- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [nikoksr/proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
@@ -575,6 +576,7 @@
 
 ## golang 
 
+- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [nikoksr/proji](https://github.com/nikoksr/proji) - A powerful cross-platform CLI project templating tool.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
@@ -1128,6 +1130,7 @@
 
 ## testing 
 
+- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
