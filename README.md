@@ -15,6 +15,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -183,6 +184,10 @@
 - [TrainingByPackt/Data-Science-Projects-with-Python](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python) - A Case Study Approach to Successful Data Science Projects Using Python, Pandas, and Scikit-Learn
 - [jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
 
+## Lua 
+
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -193,6 +198,8 @@
 
 ## Others 
 
+- [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
+- [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created and contributed by Indonesian people.
 - [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
