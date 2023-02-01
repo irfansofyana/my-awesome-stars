@@ -1006,7 +1006,7 @@
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [berkerpeksag/astor](https://github.com/berkerpeksag/astor) - Python AST read/write
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [plthiyagu/AI-Engineering](https://github.com/plthiyagu/AI-Engineering) - Self Learning
+- [plthiyagu/DataScience-Enterprise-Architect](https://github.com/plthiyagu/DataScience-Enterprise-Architect) - Self Learning
 - [coetaur0/staticfg](https://github.com/coetaur0/staticfg) - Python3 control flow graph generator
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [stevenhalim/cpbook-code](https://github.com/stevenhalim/cpbook-code) - CP4 Free Source Code Project (C++17, Java11, Python3 and OCaml)
