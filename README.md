@@ -151,6 +151,7 @@
 
 ## JavaScript 
 
+- [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [smuzani/openai-samples](https://github.com/smuzani/openai-samples) - 
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
@@ -219,6 +220,7 @@
 
 ## Others 
 
+- [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
 - [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks) - A list of best books which are needed to be a specialist in golang
 - [nauvalazhar/pengantar-vi-improved](https://github.com/nauvalazhar/pengantar-vi-improved) - Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari (PDF)
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
