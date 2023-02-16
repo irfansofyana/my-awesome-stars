@@ -324,6 +324,7 @@
 
 ## cli 
 
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [nikoksr/proji](https://github.com/nikoksr/proji) - A powerful cross-platform project templating tool.
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
