@@ -69,6 +69,8 @@
 
 ## Go 
 
+- [bvwells/go-patterns](https://github.com/bvwells/go-patterns) - Design patterns for the Go programming language
+- [ismanf/golang-design-patterns](https://github.com/ismanf/golang-design-patterns) - Implementation of design patterns in Golang
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [PullRequestInc/go-gpt3](https://github.com/PullRequestInc/go-gpt3) - An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
 - [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
@@ -228,6 +230,7 @@
 
 ## Others 
 
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
 - [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks) - A list of best books which are needed to be a specialist in golang
