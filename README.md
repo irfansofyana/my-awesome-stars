@@ -401,6 +401,7 @@
 
 ## TypeScript 
 
+- [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
