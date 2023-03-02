@@ -952,6 +952,7 @@
 
 ## others 
 
+- [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [muhammadhasan01/notal-autograder](https://github.com/muhammadhasan01/notal-autograder) - Control Flow Graph Based Notasi Algoritmik Autograder
