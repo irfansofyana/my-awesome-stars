@@ -317,6 +317,7 @@
 
 ## chatgpt 
 
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 
 ## chrome 
@@ -964,6 +965,8 @@
 
 ## others 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [mvfolino68/KafkaGPT](https://github.com/mvfolino68/KafkaGPT) - 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
@@ -972,7 +975,6 @@
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
-- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - Your best AI pair programmer - open source only
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [smuzani/openai-samples](https://github.com/smuzani/openai-samples) - 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
