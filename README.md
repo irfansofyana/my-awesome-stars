@@ -171,7 +171,7 @@
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
-- [thieleju/statsbot](https://github.com/thieleju/statsbot) - Discord Bot to gather data from public APIs using node.js and discord.js!
+- [thieleju/statsbot](https://github.com/thieleju/statsbot) - Discord Bot to gather data from public APIs using node.js and discord.js! Hacktoberfest 2022 Event Project
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -415,6 +415,7 @@
 
 ## TypeScript 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux
 - [stemmlerjs/simple-typescript-starter](https://github.com/stemmlerjs/simple-typescript-starter) - The most basic TypeScript starter I could think of
 - [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
