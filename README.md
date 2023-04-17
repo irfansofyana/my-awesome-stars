@@ -236,6 +236,7 @@
 
 ## Others 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
