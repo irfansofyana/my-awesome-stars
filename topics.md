@@ -22,6 +22,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -205,6 +206,7 @@
 
 ## awesome 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
@@ -237,6 +239,7 @@
 
 ## awesome-list 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -324,6 +327,7 @@
 
 ## chatgpt 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
@@ -331,6 +335,10 @@
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## chatgpt-api 
+
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 
 ## chrome 
 
@@ -879,6 +887,7 @@
 
 ## machine-learning 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -938,6 +947,7 @@
 
 ## nlp 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [kirralabs/indonesian-NLP-resources](https://github.com/kirralabs/indonesian-NLP-resources) - data resource untuk NLP bahasa indonesia
 - [louisowen6/NLP_bahasa_resources](https://github.com/louisowen6/NLP_bahasa_resources) - A Curated List of Dataset and Usable Library Resources for NLP in Bahasa Indonesia
 
@@ -1142,6 +1152,7 @@
 
 ## python 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
