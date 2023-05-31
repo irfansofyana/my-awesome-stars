@@ -1039,6 +1039,7 @@
 
 ## others 
 
+- [GunterMueller/Books-3](https://github.com/GunterMueller/Books-3) - 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
