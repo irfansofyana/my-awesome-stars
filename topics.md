@@ -1039,6 +1039,7 @@
 
 ## others 
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [GunterMueller/Books-3](https://github.com/GunterMueller/Books-3) - 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
