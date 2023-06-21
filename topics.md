@@ -1042,6 +1042,7 @@
 
 ## others 
 
+- [TykTechnologies/tyk-sync](https://github.com/TykTechnologies/tyk-sync) - Tyk Sync - move Tyk configurations between multiple environments
 - [shawlu95/Beyond-LeetCode-SQL](https://github.com/shawlu95/Beyond-LeetCode-SQL) - Analysis of SQL Leetcode and classic interview questions, common pitfalls, anti-patterns and handy tricks. Sample databases.
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
