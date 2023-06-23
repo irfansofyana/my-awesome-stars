@@ -242,6 +242,7 @@
 
 ## Others 
 
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [GunterMueller/Books-3](https://github.com/GunterMueller/Books-3) - 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
