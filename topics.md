@@ -224,7 +224,7 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
@@ -254,13 +254,14 @@
 
 ## awesome-list 
 
+- [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created and contributed by Indonesian people.
-- [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
@@ -773,7 +774,7 @@
 - [thieleju/statsbot](https://github.com/thieleju/statsbot) - Discord Bot to gather data from public APIs using node.js and discord.js! Hacktoberfest 2022 Event Project
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created and contributed by Indonesian people.
-- [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [Shubhamlmp/Programming-Practice](https://github.com/Shubhamlmp/Programming-Practice) - Repository accepting PR for Hactoberfest 2022
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
@@ -1058,7 +1059,7 @@
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [mvfolino68/kGPT](https://github.com/mvfolino68/kGPT) - 
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
@@ -1378,6 +1379,7 @@
 
 ## typescript 
 
+- [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [mayooear/langchain-js-tutorial](https://github.com/mayooear/langchain-js-tutorial) - LangChain beginner's tutorial for javascript/typescript
