@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock) - OpenAPI mock server with random data generation
 - [ThreeDotsLabs/go-event-driven](https://github.com/ThreeDotsLabs/go-event-driven) - Materials for https://threedots.tech/event-driven/
 - [TykTechnologies/tyk-sync](https://github.com/TykTechnologies/tyk-sync) - Tyk Sync - move Tyk configurations between multiple environments
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
@@ -437,6 +438,8 @@
 
 ## TypeScript 
 
+- [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
+- [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
