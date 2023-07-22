@@ -16,6 +16,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Limbo](#limbo)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -225,6 +226,10 @@
 - [edyoda/data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial) - For extensive instructor led learning
 - [TrainingByPackt/Data-Science-Projects-with-Python](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python) - A Case Study Approach to Successful Data Science Projects Using Python, Pandas, and Scikit-Learn
 - [jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
+
+## Limbo 
+
+- [mathisi-io/t24dev](https://github.com/mathisi-io/t24dev) - T24 Programming
 
 ## Lua 
 
