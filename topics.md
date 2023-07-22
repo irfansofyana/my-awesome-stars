@@ -1053,6 +1053,7 @@
 
 ## others 
 
+- [mathisi-io/t24dev](https://github.com/mathisi-io/t24dev) - T24 Programming
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock) - OpenAPI mock server with random data generation
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [ThreeDotsLabs/go-event-driven](https://github.com/ThreeDotsLabs/go-event-driven) - Materials for https://threedots.tech/event-driven/
