@@ -77,6 +77,7 @@
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [http](#http)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -371,6 +372,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [nikoksr/proji](https://github.com/nikoksr/proji) - A powerful cross-platform project templating tool.
@@ -816,6 +818,10 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge) - DOMjudge programming contest jury system
 
+## http 
+
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+
 ## java 
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1095,7 +1101,6 @@
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -1296,6 +1301,7 @@
 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## sass 
 
@@ -1386,6 +1392,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [golang-basics/concurrency](https://github.com/golang-basics/concurrency) - Concurrency  in Go video course with in depth explanations & examples
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -1437,6 +1444,7 @@
 - [abzcoding/lvim](https://github.com/abzcoding/lvim) - 🧑‍🚀 Bloated LunarVim 🚀
 - [nauvalazhar/pengantar-vi-improved](https://github.com/nauvalazhar/pengantar-vi-improved) - Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari (PDF)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## vue 
