@@ -1063,6 +1063,7 @@
 
 ## others 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [mathisi-io/t24dev](https://github.com/mathisi-io/t24dev) - T24 Programming
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock) - OpenAPI mock server with random data generation
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
@@ -1076,7 +1077,7 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
