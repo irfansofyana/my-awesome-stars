@@ -226,7 +226,6 @@
 
 - [shawlu95/Beyond-LeetCode-SQL](https://github.com/shawlu95/Beyond-LeetCode-SQL) - Analysis of SQL Leetcode and classic interview questions, common pitfalls, anti-patterns and handy tricks. Sample databases.
 - [muhammadhasan01/notal-autograder](https://github.com/muhammadhasan01/notal-autograder) - Control Flow Graph Based Notasi Algoritmik Autograder
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode com
 - [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
 - [plthiyagu/DataScience-Enterprise-Architect](https://github.com/plthiyagu/DataScience-Enterprise-Architect) - Self Learning
@@ -281,6 +280,7 @@
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
 - [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks) - A list of best books which are needed to be a specialist in golang
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nauvalazhar/pengantar-vi-improved](https://github.com/nauvalazhar/pengantar-vi-improved) - Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari (PDF)
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
