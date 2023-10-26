@@ -832,6 +832,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
@@ -1115,6 +1116,7 @@
 
 ## others 
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [ia-toki/judgels](https://github.com/ia-toki/judgels) - Modern programming contest system
 - [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
@@ -1156,7 +1158,6 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [cep21/circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
