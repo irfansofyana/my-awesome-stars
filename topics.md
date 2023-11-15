@@ -1135,6 +1135,7 @@
 
 ## others 
 
+- [SauravP97/Saurav-Low-Level-Design-Template](https://github.com/SauravP97/Saurav-Low-Level-Design-Template) - Low Level Design template
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [ia-toki/judgels](https://github.com/ia-toki/judgels) - Modern programming contest system
@@ -1250,7 +1251,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - :books: PinterCoding University. Lets Destroy Node.js developer.
 - [gungunfebrianza/Belajar-Dengan-Jenius-Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - :books: PinterCoding University. Author : Gun Gun Febrianza
-- [sridharavulapati/abhat222-Data-Science--Cheat-Sheet](https://github.com/sridharavulapati/abhat222-Data-Science--Cheat-Sheet) - 
+- [sreedhardata/abhat222-Data-Science--Cheat-Sheet](https://github.com/sreedhardata/abhat222-Data-Science--Cheat-Sheet) - 
 - [jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
