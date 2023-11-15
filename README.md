@@ -170,6 +170,7 @@
 
 ## Java 
 
+- [SauravP97/Saurav-Low-Level-Design-Template](https://github.com/SauravP97/Saurav-Low-Level-Design-Template) - Low Level Design template
 - [ia-toki/judgels](https://github.com/ia-toki/judgels) - Modern programming contest system
 - [kumaransg/LLD](https://github.com/kumaransg/LLD) - Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
@@ -360,7 +361,7 @@
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [boringPpl/data-engineer-roadmap](https://github.com/boringPpl/data-engineer-roadmap) - Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
-- [sridharavulapati/abhat222-Data-Science--Cheat-Sheet](https://github.com/sridharavulapati/abhat222-Data-Science--Cheat-Sheet) - 
+- [sreedhardata/abhat222-Data-Science--Cheat-Sheet](https://github.com/sreedhardata/abhat222-Data-Science--Cheat-Sheet) - 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [datasciencescoop/Data-Science-Tutorials](https://github.com/datasciencescoop/Data-Science-Tutorials) - Data Science Tutorials
