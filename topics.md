@@ -137,6 +137,7 @@
 - [spring](#spring)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -1449,6 +1450,11 @@
 ## sql-server 
 
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
+
+## sqlite 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 
 ## telegram 
 
