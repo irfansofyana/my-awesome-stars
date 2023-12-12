@@ -128,7 +128,7 @@
 - [1Password/connect-sdk-go](https://github.com/1Password/connect-sdk-go) - Go SDK for 1Password Connect
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
+- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [shettyh/threadpool](https://github.com/shettyh/threadpool) - Golang simple thread pool implementation
