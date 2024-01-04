@@ -326,7 +326,6 @@
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 
 ## backend 
@@ -401,7 +400,7 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [nikoksr/proji](https://github.com/nikoksr/proji) - A powerful cross-platform project templating tool.
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
