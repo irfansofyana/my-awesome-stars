@@ -166,6 +166,7 @@
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+- [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [irfansofyana/contests](https://github.com/irfansofyana/contests) - Solutions to various CP contests (especially Indonesian local contests)
 
 ## Java 
@@ -263,6 +264,7 @@
 
 ## Others 
 
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Practice with "Real" SQL Problems
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
@@ -454,7 +456,6 @@
 - [khannedy/belajar-kubernetes](https://github.com/khannedy/belajar-kubernetes) - Belajar Kubernetes
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
-- [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## TSQL 
