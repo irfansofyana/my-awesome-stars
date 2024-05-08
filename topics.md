@@ -1210,7 +1210,7 @@
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mvfolino68/kGPT](https://github.com/mvfolino68/kGPT) - 
-- [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
+- [formancehq/ledger](https://github.com/formancehq/ledger) - A Programmable Core Ledger
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [muhammadhasan01/notal-autograder](https://github.com/muhammadhasan01/notal-autograder) - Control Flow Graph Based Notasi Algoritmik Autograder
