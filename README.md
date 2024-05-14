@@ -69,7 +69,7 @@
 ## Go 
 
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang
-- [mehdihadeli/go-food-delivery-microservices](https://github.com/mehdihadeli/go-food-delivery-microservices) - 🍕 A practical food delivery microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+- [mehdihadeli/go-food-delivery-microservices](https://github.com/mehdihadeli/go-food-delivery-microservices) - 🍕 A practical and imaginary food delivery microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technolog
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock) - OpenAPI mock server with random data generation
 - [ThreeDotsLabs/go-event-driven](https://github.com/ThreeDotsLabs/go-event-driven) - Materials for https://threedots.tech/event-driven/
 - [TykTechnologies/tyk-sync](https://github.com/TykTechnologies/tyk-sync) - Tyk Sync - move Tyk configurations between multiple environments
@@ -487,7 +487,7 @@
 - [mayooear/langchain-js-tutorial](https://github.com/mayooear/langchain-js-tutorial) - LangChain beginner's tutorial for javascript/typescript
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [stemmlerjs/simple-typescript-starter](https://github.com/stemmlerjs/simple-typescript-starter) - The most basic TypeScript starter I could think of
 - [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
