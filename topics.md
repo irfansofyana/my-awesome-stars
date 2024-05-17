@@ -175,6 +175,7 @@
 
 ## algorithm 
 
+- [omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming) - 🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -471,6 +472,7 @@
 
 ## cpp 
 
+- [omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming) - 🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [muhammadhasan01/cp](https://github.com/muhammadhasan01/cp) - Collection of My Competitive Programming Codes
@@ -515,6 +517,7 @@
 
 ## data-structures 
 
+- [omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming) - 🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms
 - [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms) - This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1362,6 +1365,7 @@
 
 ## python 
 
+- [omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming) - 🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms
 - [NeverMendel/leetcode-export](https://github.com/NeverMendel/leetcode-export) - Python script and Docker image to export your LeetCode submissions
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
