@@ -147,7 +147,7 @@
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [commitdev/zero](https://github.com/commitdev/zero) - Allow startup developers to ship to production on day 1
-- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
