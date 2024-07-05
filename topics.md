@@ -751,7 +751,7 @@
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
@@ -816,7 +816,7 @@
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
