@@ -1204,6 +1204,7 @@
 
 ## others 
 
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [inezamandha/leetcode](https://github.com/inezamandha/leetcode) - 
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [SauravP97/Saurav-Low-Level-Design-Template](https://github.com/SauravP97/Saurav-Low-Level-Design-Template) - Low Level Design template
