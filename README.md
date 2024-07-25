@@ -273,6 +273,7 @@
 
 ## Others 
 
+- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
 - [inezamandha/leetcode](https://github.com/inezamandha/leetcode) - 
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
