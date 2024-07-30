@@ -420,7 +420,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [irfansofyana/hardrockcafe-bi-dashboard](https://github.com/irfansofyana/hardrockcafe-bi-dashboard) - BI Development. Study Case: Hard Rock Cafe
 - [san089/Udacity-Data-Engineering-Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) - Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [marcelogdeandrade/PythonCompiler](https://github.com/marcelogdeandrade/PythonCompiler) - Code used on "Writing your own programming language and compiler with Python" post
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
 - [vrthra/pycfg](https://github.com/vrthra/pycfg) - 
