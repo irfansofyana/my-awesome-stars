@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) - ⚡️ Automatically add Trace Spans to Go methods and functions
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
