@@ -269,6 +269,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mojo 
 
@@ -380,7 +381,6 @@
 - [boringPpl/data-engineer-roadmap](https://github.com/boringPpl/data-engineer-roadmap) - Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [sreedhardata/abhat222-Data-Science--Cheat-Sheet](https://github.com/sreedhardata/abhat222-Data-Science--Cheat-Sheet) - 
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [datasciencescoop/Data-Science-Tutorials](https://github.com/datasciencescoop/Data-Science-Tutorials) - Data Science Tutorials
 - [datasciencescoop/Math-for-Data-Science](https://github.com/datasciencescoop/Math-for-Data-Science) - Math for Data Science
