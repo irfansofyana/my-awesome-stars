@@ -82,6 +82,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
+- [instagram](#instagram)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -926,6 +927,10 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
+## instagram 
+
+- [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
+
 ## java 
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1323,7 +1328,6 @@
 - [marcelogdeandrade/PythonCompiler](https://github.com/marcelogdeandrade/PythonCompiler) - Code used on "Writing your own programming language and compiler with Python" post
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
 - [vrthra/pycfg](https://github.com/vrthra/pycfg) - 
-- [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [fmbenhassine/awesome-software-craftsmanship](https://github.com/fmbenhassine/awesome-software-craftsmanship) - A curated list of awesome software craftsmanship resources
 - [forthright48/notes](https://github.com/forthright48/notes) - notes of different topics
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
