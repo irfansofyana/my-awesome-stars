@@ -1364,7 +1364,7 @@
 ## package-manager 
 
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 
 ## parsing 
 
