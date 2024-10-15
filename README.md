@@ -399,6 +399,7 @@
 
 ## Python 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Automate code reviews, patching and documentation with self-hosted LLM workflows.
 - [NeverMendel/leetcode-export](https://github.com/NeverMendel/leetcode-export) - Python script and Docker image to export your LeetCode submissions
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
