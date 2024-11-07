@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
 - [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -402,6 +403,7 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Automate code reviews, patching and documentation with self-hosted LLM workflows.
@@ -456,6 +458,7 @@
 
 ## Rust 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [novalagung/dasarpemrogramanrust](https://github.com/novalagung/dasarpemrogramanrust) - 📖 Source Code Website/Ebook Dasar Pemrograman Rust
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
