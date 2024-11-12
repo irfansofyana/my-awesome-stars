@@ -460,6 +460,7 @@
 
 ## Rust 
 
+- [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs) - 🍃spring-rs is a application framework written in rust inspired by java's spring-boot
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [novalagung/dasarpemrogramanrust](https://github.com/novalagung/dasarpemrogramanrust) - 📖 Source Code Website/Ebook Dasar Pemrograman Rust
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
@@ -574,6 +575,7 @@
 
 ## Vue 
 
+- [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 - [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 ## Zig 
