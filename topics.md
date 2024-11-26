@@ -763,6 +763,7 @@
 
 ## go 
 
+- [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
 - [micro/micro](https://github.com/micro/micro) - An API first development platform
@@ -930,6 +931,7 @@
 
 ## hacktoberfest 
 
+- [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
@@ -1093,6 +1095,7 @@
 
 ## learning 
 
+- [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 - [novalagung/dasarpemrogramanrust](https://github.com/novalagung/dasarpemrogramanrust) - 📖 Source Code Website/Ebook Dasar Pemrograman Rust
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
