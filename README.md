@@ -290,6 +290,7 @@
 
 ## Makefile 
 
+- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
