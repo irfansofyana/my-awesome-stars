@@ -67,6 +67,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [facebook](#facebook)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -763,6 +764,14 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [gungunfebrianza/Mastering-Node.js](https://github.com/gungunfebrianza/Mastering-Node.js) - :books: Belajar Dengan Jenius Node.js bareng Gun Gun Febrianza
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+
+## facebook 
+
+- [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
+- [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+- [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 ## firebase 
 
@@ -1553,7 +1562,6 @@
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
-- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [irfansofyana/hardrockcafe-bi-dashboard](https://github.com/irfansofyana/hardrockcafe-bi-dashboard) - BI Development. Study Case: Hard Rock Cafe
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [natbusa/data-engineering](https://github.com/natbusa/data-engineering) - How to build an awesome data engineering team
