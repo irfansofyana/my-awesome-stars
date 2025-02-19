@@ -228,7 +228,7 @@
 
 ## JavaScript 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
