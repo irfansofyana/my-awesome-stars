@@ -1472,6 +1472,7 @@
 
 ## others 
 
+- [ergut/mcp-logseq-server](https://github.com/ergut/mcp-logseq-server) - MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph.
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [tohyongcheng/template-backend-express](https://github.com/tohyongcheng/template-backend-express) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
