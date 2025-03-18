@@ -83,6 +83,7 @@
 
 ## Go 
 
+- [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database.
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
@@ -576,7 +577,7 @@
 
 ## TypeScript 
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
