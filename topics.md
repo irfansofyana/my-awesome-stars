@@ -1549,6 +1549,8 @@
 
 ## others 
 
+- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode com
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [ashishps1/awesome-ai-resources](https://github.com/ashishps1/awesome-ai-resources) - Learn AI using free resources
 - [gitbito/CodeReviewAgent](https://github.com/gitbito/CodeReviewAgent) - On-demand, context-aware AI code reviews in your Git workflow or IDE as you code.
