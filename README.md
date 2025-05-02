@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [oprekable/bank-reconcile](https://github.com/oprekable/bank-reconcile) - A simple command-line tool for bank statement reconciliation, designed to demonstrate software development best practices using the Go programming language.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments
