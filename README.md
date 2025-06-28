@@ -654,7 +654,7 @@
 
 ## TypeScript 
 
-- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - 
+- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design - Open Source
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
