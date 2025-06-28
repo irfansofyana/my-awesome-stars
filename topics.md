@@ -1673,7 +1673,7 @@
 
 ## others 
 
-- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - 
+- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design - Open Source
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
