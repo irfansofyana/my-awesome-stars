@@ -124,7 +124,7 @@
 - [irahardianto/service-pattern-go](https://github.com/irahardianto/service-pattern-go) - Simple clean Go REST API architecture with dependency injection and mocking example, following SOLID principles.
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [fgrosse/go-coverage-report](https://github.com/fgrosse/go-coverage-report) - A CLI tool and GitHub Action to post Go code coverage reports as comment to your pull requests.
@@ -330,6 +330,7 @@
 - [shawlu95/Beyond-LeetCode-SQL](https://github.com/shawlu95/Beyond-LeetCode-SQL) - Analysis of SQL Leetcode and classic interview questions, common pitfalls, anti-patterns and handy tricks. Sample databases.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [muhammadhasan01/notal-autograder](https://github.com/muhammadhasan01/notal-autograder) - Control Flow Graph Based Notasi Algoritmik Autograder
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode com
 - [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
 - [plthiyagu/DataScience-Enterprise-Architect](https://github.com/plthiyagu/DataScience-Enterprise-Architect) - Self Learning
@@ -355,7 +356,6 @@
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 
 ## Makefile 
