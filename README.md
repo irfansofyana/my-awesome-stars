@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
@@ -522,6 +523,9 @@
 
 ## Python 
 
+- [xueli-sherryli/rss-mcp-server](https://github.com/xueli-sherryli/rss-mcp-server) - 本项目是一个适用于支持 FreshRSS API 的 RSS 服务的 MCP ( Model Context Protocol ) 服务器。该服务器允许您通过LLM与您的 RSS 阅读器进行交互。/ This project is an MCP ( Model Context Protocol ) server for RSS services that support the FreshRSS 
+- [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) - 
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
@@ -695,6 +699,7 @@
 
 ## TypeScript 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp) - A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude. Allow you to control your Ghost blog by simply asking Claude etc.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
