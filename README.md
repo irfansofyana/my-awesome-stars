@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) - Razorpay's Official MCP Server
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
@@ -528,7 +529,7 @@
 - [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server
 - [xueli-sherryli/rss-mcp-server](https://github.com/xueli-sherryli/rss-mcp-server) - 本项目是一个适用于支持 FreshRSS API 的 RSS 服务的 MCP ( Model Context Protocol ) 服务器。该服务器允许您通过LLM与您的 RSS 阅读器进行交互。/ This project is an MCP ( Model Context Protocol ) server for RSS services that support the FreshRSS 
-- [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) - 
+- [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) - MCP Server for Snowflake including Cortex AI, object management, SQL orchestration, semantic view consumption, and more
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
