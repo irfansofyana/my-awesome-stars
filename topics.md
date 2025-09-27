@@ -1858,6 +1858,7 @@
 
 ## others 
 
+- [irfansofyana/llm-youtube](https://github.com/irfansofyana/llm-youtube) - LLM plugin for pulling content from Youtube videos
 - [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
