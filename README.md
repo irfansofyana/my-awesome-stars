@@ -738,7 +738,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design - Open Source
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
