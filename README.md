@@ -248,7 +248,7 @@
 
 ## HTML 
 
-- [donvito/ai-backends](https://github.com/donvito/ai-backends) - Simple API server implementing common AI use cases which supports multiple models and providers. You can run locally using Ollama, LMStudio or using cloud providers via OpenRouter, OpenAI, Anthropic o
+- [donvito/ai-backends](https://github.com/donvito/ai-backends) - AI API server for common use cases — supports multiple models and providers. Run locally with Ollama or LM Studio, or in the cloud via OpenRouter, OpenAI, Anthropic, or Google.
 - [irfansofyana/devtools](https://github.com/irfansofyana/devtools) - Collection of utility tools for developers
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
