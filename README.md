@@ -545,7 +545,6 @@
 - [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) - MCP Server for Snowflake including Cortex AI, object management, SQL orchestration, semantic view consumption, and more
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [c0dezli/claude-code-personal-assistant](https://github.com/c0dezli/claude-code-personal-assistant) - AI personal assistant setup for Claude Code
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
@@ -595,7 +594,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
 - [NeverMendel/leetcode-export](https://github.com/NeverMendel/leetcode-export) - Python script and Docker image to export your LeetCode submissions
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -685,6 +684,7 @@
 ## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown parser for tui clis
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [gitbito/CodeReviewAgent](https://github.com/gitbito/CodeReviewAgent) - On-demand, context-aware AI code reviews in your Git workflow or IDE as you code.
