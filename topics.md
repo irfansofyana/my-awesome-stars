@@ -242,7 +242,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
@@ -297,7 +297,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 
@@ -602,6 +602,7 @@
 
 ## cli 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [day50-dev/Streamdown](https://github.com/day50-dev/Streamdown) - Streaming Markdown parser for tui clis
@@ -611,7 +612,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -656,7 +657,7 @@
 
 - [codedog-ai/codedog](https://github.com/codedog-ai/codedog) - Code review assistant powered by LLM
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 ## coding 
 
@@ -848,7 +849,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
@@ -1120,6 +1121,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [rrrrayyyy/goilerplate](https://github.com/rrrrayyyy/goilerplate) - Clean Boilerplate of Go, Domain-Driven Design, Clean Architecture, Gin and GORM.
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [proji-rocks/proji](https://github.com/proji-rocks/proji) - A powerful cross-platform project templating tool.
@@ -1304,7 +1306,7 @@
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -1572,7 +1574,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -1682,7 +1684,7 @@
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) - ⚡️ Automatically add Trace Spans to Go functions
@@ -1843,7 +1845,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -1875,7 +1877,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2040,7 +2042,7 @@
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [mvfolino68/kGPT](https://github.com/mvfolino68/kGPT) - 
-- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source ledger for fintechs
+- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [muhammadhasan01/notal-autograder](https://github.com/muhammadhasan01/notal-autograder) - Control Flow Graph Based Notasi Algoritmik Autograder
@@ -2286,7 +2288,6 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
