@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [bxcodec/golang-ddd-modular-monolith-with-hexagonal](https://github.com/bxcodec/golang-ddd-modular-monolith-with-hexagonal) - Golang example project following DDD design in Modular Monolith with Hexagonal Architecture
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
@@ -535,6 +536,7 @@
 
 ## Python 
 
+- [simonw/research](https://github.com/simonw/research) - Research projects
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
