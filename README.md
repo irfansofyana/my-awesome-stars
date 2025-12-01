@@ -536,6 +536,7 @@
 
 ## Python 
 
+- [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [simonw/research](https://github.com/simonw/research) - Research projects
