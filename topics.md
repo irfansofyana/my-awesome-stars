@@ -210,6 +210,7 @@
 
 ## agent 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -233,6 +234,7 @@
 
 ## ai 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
@@ -575,7 +577,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -689,7 +691,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## clojure 
@@ -1339,7 +1341,7 @@
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
@@ -1396,6 +1398,7 @@
 
 ## hacktoberfest 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
@@ -1567,7 +1570,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [irfansofyana/sheets-api](https://github.com/irfansofyana/sheets-api) - Make your Google Sheets into JSON API with free and easy!
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## kubernetes 
@@ -1650,6 +1653,7 @@
 
 ## llm 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Context retrieval for AI agents across apps and databases
@@ -1847,6 +1851,7 @@
 
 ## nextjs 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -1960,6 +1965,7 @@
 
 ## open-source 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
@@ -2020,6 +2026,7 @@
 
 ## others 
 
+- [rafiramadhana/pyconid25-peter-lynch-stocks](https://github.com/rafiramadhana/pyconid25-peter-lynch-stocks) - 
 - [mattekudacy/pycon-id-2025](https://github.com/mattekudacy/pycon-id-2025) - 
 - [taufiq-ai/pyconid25](https://github.com/taufiq-ai/pyconid25) - 
 - [irfansofyana/my-claude-code-marketplace](https://github.com/irfansofyana/my-claude-code-marketplace) - My own personal claude code marketplace
@@ -2444,6 +2451,7 @@
 
 ## react 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -2466,6 +2474,7 @@
 
 ## reactjs 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -2702,6 +2711,7 @@
 
 ## typescript 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -2820,7 +2830,7 @@
 
 ## xml 
 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## youtube 
 
