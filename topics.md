@@ -2026,6 +2026,7 @@
 
 ## others 
 
+- [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [rafiramadhana/pyconid25-peter-lynch-stocks](https://github.com/rafiramadhana/pyconid25-peter-lynch-stocks) - 
 - [mattekudacy/pycon-id-2025](https://github.com/mattekudacy/pycon-id-2025) - 
 - [taufiq-ai/pyconid25](https://github.com/taufiq-ai/pyconid25) - 
