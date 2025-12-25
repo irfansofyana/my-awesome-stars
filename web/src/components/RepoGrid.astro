@@ -1,0 +1,34 @@
+---
+import RepoCard from './RepoCard.astro';
+import type { Repo } from '../lib/markdown-parser';
+
+interface Props {
+  repos: Repo[];
+}
+
+const { repos } = Astro.props;
+---
+
+<div class="repo-grid" id="repo-grid">
+  {repos.map(repo => (
+    <RepoCard
+      owner={repo.owner}
+      name={repo.name}
+      url={repo.url}
+      description={repo.description}
+      languages={repo.languages}
+      topics={repo.topics}
+    />
+  ))}
+</div>
+
+<div id="results-count" class="results-count">
+  Showing {repos.length} repositories
+</div>
+
+<script>
+  document.addEventListener('filter-applied', ((e: CustomEvent<{ count: number }>) => {
+    const countEl = document.getElementById('results-count')!;
+    countEl.textContent = `Showing ${e.detail.count} repositories`;
+  }) as EventListener);
+</script>

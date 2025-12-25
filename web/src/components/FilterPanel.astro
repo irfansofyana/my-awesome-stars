@@ -1,0 +1,112 @@
+---
+interface Props {
+  languages: string[];
+  topics: string[];
+}
+
+const { languages, topics } = Astro.props;
+---
+
+<div class="filter-section">
+  <details class="filter-group" open>
+    <summary class="filter-summary">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+      </svg>
+      Languages ({languages.length})
+    </summary>
+    <div class="filter-options" id="language-filters">
+      {languages.map(lang => (
+        <label class="filter-option">
+          <input type="checkbox" value={lang} data-filter-type="language" />
+          <span>{lang}</span>
+        </label>
+      ))}
+    </div>
+  </details>
+
+  <details class="filter-group">
+    <summary class="filter-summary">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
+      </svg>
+      Topics ({topics.length})
+    </summary>
+    <div class="filter-options" id="topic-filters">
+      {topics.map(topic => (
+        <label class="filter-option">
+          <input type="checkbox" value={topic} data-filter-type="topic" />
+          <span>{topic}</span>
+        </label>
+      ))}
+    </div>
+  </details>
+
+  <button id="clear-filters" class="clear-filters-btn">Clear Filters</button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const languageFilters = document.querySelectorAll<HTMLInputElement>('#language-filters input');
+    const topicFilters = document.querySelectorAll<HTMLInputElement>('#topic-filters input');
+    const clearBtn = document.getElementById('clear-filters')!;
+    const repoCards = document.querySelectorAll('.repo-card');
+
+    let selectedLanguages = new Set<string>();
+    let selectedTopics = new Set<string>();
+
+    function applyFilters() {
+      let visibleCount = 0;
+
+      repoCards.forEach(card => {
+        const cardLanguages = (card.getAttribute('data-languages') || '').split(',');
+        const cardTopics = (card.getAttribute('data-topics') || '').split(',');
+
+        const matchesLanguage = selectedLanguages.size === 0 ||
+          selectedLanguages.some(lang => cardLanguages.includes(lang));
+
+        const matchesTopic = selectedTopics.size === 0 ||
+          selectedTopics.some(topic => cardTopics.includes(topic));
+
+        const matches = matchesLanguage && matchesTopic;
+
+        (card as HTMLElement).style.display = matches ? '' : 'none';
+        if (matches) visibleCount++;
+      });
+
+      document.dispatchEvent(new CustomEvent('filter-applied', {
+        detail: { count: visibleCount }
+      }));
+    }
+
+    languageFilters.forEach(input => {
+      input.addEventListener('change', () => {
+        if (input.checked) {
+          selectedLanguages.add(input.value);
+        } else {
+          selectedLanguages.delete(input.value);
+        }
+        applyFilters();
+      });
+    });
+
+    topicFilters.forEach(input => {
+      input.addEventListener('change', () => {
+        if (input.checked) {
+          selectedTopics.add(input.value);
+        } else {
+          selectedTopics.delete(input.value);
+        }
+        applyFilters();
+      });
+    });
+
+    clearBtn.addEventListener('click', () => {
+      languageFilters.forEach(i => i.checked = false);
+      topicFilters.forEach(i => i.checked = false);
+      selectedLanguages.clear();
+      selectedTopics.clear();
+      applyFilters();
+    });
+  });
+</script>
