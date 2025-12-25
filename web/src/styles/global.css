@@ -177,12 +177,12 @@ body {
 /* Filter Panel */
 .filter-section {
   position: sticky;
-  top: 1rem;
+  top: 5.5rem;
   background: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 0.75rem;
   padding: 1.25rem;
-  max-height: calc(100vh - 2rem);
+  max-height: calc(100vh - 6.5rem);
   overflow-y: auto;
 }
 
@@ -281,10 +281,12 @@ body {
 /* Search */
 .search-container {
   position: sticky;
-  top: 1rem;
+  top: 0;
   z-index: 100;
   background: var(--bg-color);
-  padding: 1.5rem 0 1rem;
+  padding: 1rem 0 0.75rem;
+  border-bottom: 1px solid var(--border-color);
+  backdrop-filter: blur(8px);
 }
 
 .search-box {
@@ -441,5 +443,16 @@ body {
   .sidebar {
     position: static;
     width: 100%;
+  }
+
+  .search-container {
+    position: static;
+    border-bottom: none;
+    padding-bottom: 1rem;
+  }
+
+  .filter-section {
+    position: static;
+    max-height: none;
   }
 }
