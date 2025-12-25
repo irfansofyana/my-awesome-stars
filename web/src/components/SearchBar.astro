@@ -1,0 +1,84 @@
+---
+// Search bar component with client-side text search
+---
+
+<div class="search-container">
+  <div class="search-box">
+    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+    </svg>
+    <input
+      type="text"
+      id="search-input"
+      placeholder="Search repositories..."
+      autocomplete="off"
+    />
+    <button id="clear-search" class="clear-search-btn">&times;</button>
+  </div>
+  <div id="search-stats" class="search-stats"></div>
+</div>
+
+<script>
+  const searchInput = document.getElementById('search-input') as HTMLInputElement;
+  const clearBtn = document.getElementById('clear-search') as HTMLButtonElement;
+  const statsEl = document.getElementById('search-stats')!;
+
+  function performSearch(query: string) {
+    const repoCards = document.querySelectorAll('.repo-card');
+    const queryLower = query.toLowerCase().trim();
+    let visibleCount = 0;
+
+    if (!queryLower) {
+      // Show all repos
+      repoCards.forEach(card => {
+        (card as HTMLElement).style.display = '';
+        visibleCount++;
+      });
+      statsEl.textContent = '';
+      clearBtn.classList.remove('visible');
+    } else {
+      // Filter repos by text content
+      repoCards.forEach(card => {
+        const text = card.textContent?.toLowerCase() || '';
+        const matches = text.includes(queryLower);
+        (card as HTMLElement).style.display = matches ? '' : 'none';
+        if (matches) visibleCount++;
+      });
+
+      statsEl.textContent = `Found ${visibleCount} result${visibleCount !== 1 ? 's' : ''} for "${query}"`;
+      clearBtn.classList.add('visible');
+    }
+
+    // Update results count
+    const countEl = document.getElementById('results-count');
+    if (countEl) {
+      countEl.textContent = `Showing ${visibleCount} repositories`;
+    }
+  }
+
+  let searchTimeout: number | undefined;
+
+  searchInput?.addEventListener('input', (e) => {
+    const query = (e.target as HTMLInputElement).value;
+
+    // Debounce for better performance with many repos
+    clearTimeout(searchTimeout);
+    searchTimeout = window.setTimeout(() => {
+      performSearch(query);
+    }, 150);
+  });
+
+  clearBtn?.addEventListener('click', () => {
+    searchInput.value = '';
+    performSearch('');
+    searchInput.focus();
+  });
+
+  // Also search on Enter key
+  searchInput?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      clearTimeout(searchTimeout);
+      performSearch((e.target as HTMLInputElement).value);
+    }
+  });
+</script>
