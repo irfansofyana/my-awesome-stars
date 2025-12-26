@@ -8,4 +8,9 @@ export default defineConfig({
   build: {
     format: 'directory',
   },
+  vite: {
+    define: {
+      'import.meta.env.BUILD_TIMESTAMP': JSON.stringify(process.env.BUILD_TIMESTAMP || new Date().toISOString()),
+    },
+  },
 });

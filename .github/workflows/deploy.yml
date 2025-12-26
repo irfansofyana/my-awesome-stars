@@ -35,9 +35,15 @@ jobs:
         working-directory: ./web
         run: npm ci
 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> $GITHUB_OUTPUT
+
       - name: Build Astro site
         working-directory: ./web
         run: npm run build
+        env:
+          BUILD_TIMESTAMP: ${{ steps.date.outputs.date }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
