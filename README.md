@@ -397,6 +397,7 @@
 
 ## Others 
 
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [rahulvrane/awesome-claude-agents](https://github.com/rahulvrane/awesome-claude-agents) - collection of awesome claude code subagents!
 - [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) - A comprehensive collection of 100+ production-ready development subagents for Claude Code
 - [google/mcp](https://github.com/google/mcp) - Google 💚 MCP
