@@ -2148,7 +2148,7 @@
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
