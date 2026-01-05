@@ -396,6 +396,7 @@
 
 ## Others 
 
+- [HeyNina101/generative_ai_project](https://github.com/HeyNina101/generative_ai_project) - A production-ready template to kickstart your Generative AI projects with structure and scalability in mind.
 - [simonw/skills](https://github.com/simonw/skills) - Skills for coding agents
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [rahulvrane/awesome-claude-agents](https://github.com/rahulvrane/awesome-claude-agents) - collection of awesome claude code subagents!
@@ -780,7 +781,7 @@
 ## TypeScript 
 
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces Collection for Claude Code
 - [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — S
@@ -856,7 +857,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [zemuldo/iso_8583](https://github.com/zemuldo/iso_8583) - :credit_card::moneybag: JavaScript library for iso 8583 messaging. Handles message validation & conversion between interfaces using iso 8583 standard. Contributors are welcome.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
