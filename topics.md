@@ -1811,7 +1811,8 @@
 
 ## mcp 
 
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces Collection for Claude Code
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces collections for and extend Claude Code
 - [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -2118,7 +2119,6 @@
 
 ## others 
 
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic-managed directory of high quality Claude Code Plugins.
 - [simonw/skills](https://github.com/simonw/skills) - Skills for coding agents
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
