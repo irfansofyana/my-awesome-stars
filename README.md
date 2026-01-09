@@ -553,6 +553,7 @@
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces collections for and extend Claude Code
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
@@ -595,6 +596,7 @@
 - [c0dezli/claude-code-personal-assistant](https://github.com/c0dezli/claude-code-personal-assistant) - AI personal assistant setup for Claude Code
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
@@ -734,7 +736,7 @@
 
 ## Shell 
 
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic-managed directory of high quality Claude Code Plugins.
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [aeitroc/claude-select](https://github.com/aeitroc/claude-select) - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -784,7 +786,6 @@
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces Collection for Claude Code
 - [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
@@ -807,7 +808,6 @@
 - [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp) - A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude. Allow you to control your Ghost blog by simply asking Claude etc.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
