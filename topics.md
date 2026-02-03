@@ -381,7 +381,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 
@@ -1926,7 +1926,7 @@
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) - ⚡️ Automatically add Trace Spans to Go functions
