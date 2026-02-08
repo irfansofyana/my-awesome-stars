@@ -247,6 +247,7 @@
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gungunfebrianza/Belajar-Dengan-Jenius-Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - :books: PinterCoding University. Author : Gun Gun Febrianza
@@ -512,7 +513,6 @@
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [natbusa/data-engineering](https://github.com/natbusa/data-engineering) - How to build an awesome data engineering team
