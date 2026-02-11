@@ -114,7 +114,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized proxy platform for MCP servers, accessible via a single HTTP server,featuring a web-based management interface.
+- [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
