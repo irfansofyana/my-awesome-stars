@@ -1860,7 +1860,7 @@
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
-- [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized proxy platform for MCP servers, accessible via a single HTTP server,featuring a web-based management interface.
+- [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -2244,7 +2244,6 @@
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
@@ -2984,6 +2983,7 @@
 
 ## web-development 
 
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The browser for web developers 🧑‍💻  Build your app right inside the browser while fully owning the codebase, take inspiration from the web and debug with AI
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
