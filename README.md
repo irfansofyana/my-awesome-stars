@@ -28,6 +28,7 @@
 - [Mojo](#mojo)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
+- [PDDL](#pddl)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -548,6 +549,10 @@
 - [datasciencescoop/Data-Science-Tutorials](https://github.com/datasciencescoop/Data-Science-Tutorials) - Data Science Tutorials
 - [datasciencescoop/Math-for-Data-Science](https://github.com/datasciencescoop/Math-for-Data-Science) - Math for Data Science
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+## PDDL 
+
+- [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - SkillsBench evaluates how well skills work and how effective agents are at using them
 
 ## PHP 
 
