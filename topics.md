@@ -323,6 +323,7 @@
 
 ## ai-agents 
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
@@ -1422,6 +1423,7 @@
 
 ## google 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
@@ -1856,6 +1858,7 @@
 
 ## mcp 
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
@@ -2178,7 +2181,7 @@
 - [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - SkillsBench evaluates how well skills work and how effective agents are at using them
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [simonw/skills](https://github.com/simonw/skills) - Skills for coding agents
@@ -2471,6 +2474,7 @@
 
 ## privacy 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -2524,6 +2528,7 @@
 
 ## python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
