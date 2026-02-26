@@ -243,7 +243,9 @@
 
 ## ai 
 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
@@ -323,7 +325,9 @@
 
 ## ai-agents 
 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
@@ -711,6 +715,7 @@
 
 ## cli 
 
+- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -797,7 +802,7 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 
 ## computer-science 
 
@@ -1441,7 +1446,7 @@
 - [rasadov/EcommerceAPI](https://github.com/rasadov/EcommerceAPI) - Modular e-commerce backend with a GraphQL gateway and gRPC microservices for accounts, products, orders, payments, and recommendations.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 
 ## gui 
 
@@ -1716,6 +1721,7 @@
 
 ## llm 
 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -1858,6 +1864,7 @@
 
 ## mcp 
 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -2179,7 +2186,6 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
-- [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and claude code (or other agents).
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Manage agents remotely from your phone, desktop and CLI
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
@@ -2533,6 +2539,7 @@
 
 ## python 
 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -2660,7 +2667,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
 
