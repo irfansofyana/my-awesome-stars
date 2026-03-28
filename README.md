@@ -418,6 +418,7 @@
 
 ## Others 
 
+- [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) - Production-tested templates for deploying multi-agent AI teams on OpenClaw with Telegram supergroup integration. 10 agent personalities, shared context workflows, bot-to-bot communication, and step-by
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
@@ -757,7 +758,7 @@
 - [summer-rs/summer-rs](https://github.com/summer-rs/summer-rs) - 🍃spring-rs is a application framework written in rust inspired by java's spring-boot
 - [novalagung/dasarpemrogramanrust](https://github.com/novalagung/dasarpemrogramanrust) - 📖 Source Code Website/Ebook Dasar Pemrograman Rust
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
