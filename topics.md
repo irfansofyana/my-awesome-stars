@@ -1347,7 +1347,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [proji-rocks/proji](https://github.com/proji-rocks/proji) - A powerful cross-platform project templating tool.
