@@ -254,7 +254,7 @@
 - [fpytloun/mnemory](https://github.com/fpytloun/mnemory) - A self-hosted, secure, feature-rich memory system for AI agents and assistants. Provides intelligent fact extraction and deduplication, with an artifact store for detailed content.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Skyzi000/openclaw-open-webui-channels](https://github.com/Skyzi000/openclaw-open-webui-channels) - OpenClaw plugin to connect with Open WebUI Channels
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -758,7 +758,7 @@
 
 ## claude-code 
 
-- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open Cowork - Opensource Claude Cowork for Windows & macOS.
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
@@ -872,7 +872,7 @@
 
 - [codedog-ai/codedog](https://github.com/codedog-ai/codedog) - Code review assistant powered by LLM
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
 
 ## coding 
 
@@ -1235,6 +1235,7 @@
 
 ## electron 
 
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1859,7 +1860,7 @@
 
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) - Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
@@ -2014,7 +2015,8 @@
 
 ## mcp 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, and actions that extend your AI chat experience.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
@@ -2327,7 +2329,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2727,7 +2729,7 @@
 ## python 
 
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
