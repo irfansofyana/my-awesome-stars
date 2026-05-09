@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [anvie/evonic](https://github.com/anvie/evonic) - Open Agentic AI Platform - The home your agents deserve
 - [Skyzi000/open-webui-extensions](https://github.com/Skyzi000/open-webui-extensions) - A collection of tools and filters for Open WebUI.
