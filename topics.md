@@ -77,7 +77,6 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
-- [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -1310,10 +1309,6 @@
 ## emacs 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-
-## emoji 
-
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## es6 
 
