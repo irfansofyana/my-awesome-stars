@@ -628,6 +628,7 @@
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
@@ -784,6 +785,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -868,6 +870,7 @@
 
 ## TypeScript 
 
+- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
 - [BerriAI/litellm-agent-platform](https://github.com/BerriAI/litellm-agent-platform) - Self-hosted platform for running coding agents (Claude Code, Codex, Hermes) in isolated sandboxes with vault proxy.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -883,8 +886,7 @@
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [Skyzi000/openclaw-open-webui-channels](https://github.com/Skyzi000/openclaw-open-webui-channels) - OpenClaw plugin to connect with Open WebUI Channels
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
-- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [zocomputer/skills](https://github.com/zocomputer/skills) - Agent Skills Registry
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -904,7 +906,6 @@
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
