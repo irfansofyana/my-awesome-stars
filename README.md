@@ -430,6 +430,7 @@
 
 ## Others 
 
+- [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [addyosmani/agent-engineer](https://github.com/addyosmani/agent-engineer) - Agent Engineer - a practical course for software engineers
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
