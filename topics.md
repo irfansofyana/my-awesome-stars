@@ -2474,7 +2474,7 @@
 - [AgenticAiLabs/Ai-Engineering-Roadmap](https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap) - Path to becoming a self-taught AI Engineer - a curated, open-source curriculum modeled after OSSU.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
-- [LiteLLM-Labs/lite-harness](https://github.com/LiteLLM-Labs/lite-harness) - Unified Server for running OpenCode, Claude Code, Codex
+- [LiteLLM-Labs/lite-harness](https://github.com/LiteLLM-Labs/lite-harness) - Unified Server for running OpenCode, Claude Code, Codex agents
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
