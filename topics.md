@@ -799,7 +799,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
@@ -830,7 +829,7 @@
 - [decolua/9remote](https://github.com/decolua/9remote) - 📱 Terminal in Your Pocket — Control Claude Code, Codex, Gemini CLI & your Mac/Linux/Windows from any phone or browser. Vibe coding from anywhere. Alternative to MobileCLI, Claude Remote, vibe-remote, 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - Self-hosted Agent Building UI - Build agents on top of OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
+- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - Self-hosted agent builder - Build agents on top of OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
@@ -1825,7 +1824,6 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [mayooear/langchain-js-tutorial](https://github.com/mayooear/langchain-js-tutorial) - LangChain beginner's tutorial for javascript/typescript
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
@@ -2333,7 +2331,6 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2595,7 +2592,7 @@
 - [c0dezli/claude-code-personal-assistant](https://github.com/c0dezli/claude-code-personal-assistant) - AI personal assistant setup for Claude Code
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -2927,7 +2924,6 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [omonimus1/competitive-programming](https://github.com/omonimus1/competitive-programming) - 🔥 🖥️ Competitive programming guide, learning materials and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank, Spoj, Codebyte, InterviewBit, CodingBlock & other platforms
 - [NeverMendel/leetcode-export](https://github.com/NeverMendel/leetcode-export) - Python script and Docker image to export your LeetCode submissions
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -3092,6 +3088,7 @@
 - [novalagung/dasarpemrogramanrust](https://github.com/novalagung/dasarpemrogramanrust) - 📖 Source Code Website/Ebook Dasar Pemrograman Rust
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3297,6 +3294,7 @@
 - [day50-dev/render-markdown-terminal](https://github.com/day50-dev/render-markdown-terminal) - Streaming Markdown renderer for tui clis
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 ## twitter 
 
