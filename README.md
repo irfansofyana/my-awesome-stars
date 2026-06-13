@@ -525,7 +525,7 @@
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) - Books for people who are or aspire to manage/lead team(s) of software engineers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
+- [simonaronsson/awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) - A curated list of resources on software architecture
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
@@ -793,7 +793,7 @@
 ## Rust 
 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - Self-hosted agent builder - Build agents on top of OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
+- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -889,7 +889,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
