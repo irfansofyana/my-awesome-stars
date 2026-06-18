@@ -395,6 +395,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 
 ## ai-agents 
@@ -446,6 +447,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 
 ## algorithm 
 
@@ -505,7 +507,7 @@
 ## api 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+- [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -695,7 +697,7 @@
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [san089/Udacity-Data-Engineering-Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) - Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -721,7 +723,7 @@
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [gungunfebrianza/Mastering-PHP7](https://github.com/gungunfebrianza/Mastering-PHP7) - :books: PinterCoding University. Author : Gun Gun Febrianza
 
@@ -830,6 +832,7 @@
 
 ## claude-code 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [decolua/9remote](https://github.com/decolua/9remote) - 📱 Terminal in Your Pocket — Control Claude Code, Codex, Gemini CLI & your Mac/Linux/Windows from any phone or browser. Vibe coding from anywhere. Alternative to MobileCLI, Claude Remote, vibe-remote, 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -939,7 +942,7 @@
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 
@@ -1130,7 +1133,7 @@
 - [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [gungunfebrianza/Mastering-PHP7](https://github.com/gungunfebrianza/Mastering-PHP7) - :books: PinterCoding University. Author : Gun Gun Febrianza
@@ -1240,7 +1243,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1262,8 +1265,8 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
@@ -1542,10 +1545,10 @@
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
@@ -1641,11 +1644,11 @@
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
@@ -2145,6 +2148,7 @@
 
 ## mcp 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
@@ -2198,6 +2202,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 
 ## microservices 
 
@@ -2216,8 +2221,8 @@
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## microsoft 
@@ -2413,6 +2418,7 @@
 
 ## open-source 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2494,6 +2500,7 @@
 
 ## others 
 
+- [n8n-io/skills](https://github.com/n8n-io/skills) - 
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
@@ -3086,6 +3093,7 @@
 
 ## rust 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -3167,7 +3175,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 
 ## shell 
@@ -3321,6 +3329,7 @@
 
 ## typescript 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -3369,7 +3378,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
