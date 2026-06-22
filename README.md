@@ -268,7 +268,6 @@
 
 ## HTML 
 
-- [Forward-Future/loop-library](https://github.com/Forward-Future/loop-library) - Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [donvito/ai-backends](https://github.com/donvito/ai-backends) - AI API server for common use cases — supports multiple models and providers. Run locally with Ollama or LM Studio, or in the cloud via OpenRouter, OpenAI, Anthropic, or Google.
@@ -309,6 +308,7 @@
 
 ## JavaScript 
 
+- [Forward-Future/loop-library](https://github.com/Forward-Future/loop-library) - Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [LiteLLM-Labs/lite-harness](https://github.com/LiteLLM-Labs/lite-harness) - Unified API for running OpenCode, Claude Code, Codex agents
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -899,7 +899,7 @@
 - [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 17 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
