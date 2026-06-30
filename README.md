@@ -185,7 +185,6 @@
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [golang-basics/concurrency](https://github.com/golang-basics/concurrency) - Concurrency  in Go video course with in depth explanations & examples
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
@@ -278,6 +277,7 @@
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
@@ -637,7 +637,7 @@
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, and actions that extend your AI chat experience.
+- [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
