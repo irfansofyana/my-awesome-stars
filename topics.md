@@ -222,7 +222,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
-- [zig](#zig)
 - [zsh](#zsh)
 
 ## agent 
@@ -3154,6 +3153,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## sass 
 
@@ -3516,10 +3516,6 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
 - [mostafa-saad/ArabicCompetitiveProgramming](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) - The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.
-
-## zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
