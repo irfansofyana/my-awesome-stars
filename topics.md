@@ -2604,6 +2604,7 @@
 
 ## others 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [LiteLLM-Labs/litellm-relay](https://github.com/LiteLLM-Labs/litellm-relay) - Onboard AI tools in one step, and catch the rest. Relay sets up Claude Desktop, Claude Code, and Codex to run through your LiteLLM AI Gateway with zero dev setup and routes shadow AI (Notion AI, Perpl
 - [open-webui/computer](https://github.com/open-webui/computer) - Your Computer. Anywhere.
 - [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into w
