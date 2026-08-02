@@ -904,6 +904,8 @@
 
 ## TypeScript 
 
+- [irfansofyana/pi-setup](https://github.com/irfansofyana/pi-setup) - My Pi coding agents setup
+- [irfansofyana/pi-9router-ext](https://github.com/irfansofyana/pi-9router-ext) - pi extension to connect with 9router instance
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into w
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -1026,7 +1028,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [zemuldo/iso_8583](https://github.com/zemuldo/iso_8583) - :credit_card::moneybag: JavaScript library for iso 8583 messaging. Handles message validation & conversion between interfaces using iso 8583 standard. Contributors are welcome.
 - [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
