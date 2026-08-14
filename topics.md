@@ -311,7 +311,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -329,7 +329,7 @@
 
 ## ai 
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. https://qm.ycombinator.com
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -398,7 +398,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -914,7 +914,7 @@
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [gabrielkoo/self-learning-rag-it-support-slackbot](https://github.com/gabrielkoo/self-learning-rag-it-support-slackbot) - IT Support Slack Bot that self-learns and have access to knowledge base, with search and browsing tools.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -2103,7 +2103,7 @@
 
 ## llm 
 
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [ianustec/openwebui-generate-slides](https://github.com/ianustec/openwebui-generate-slides) - Native PowerPoint (.pptx) generator tool for Open WebUI — JSON spec in, native charts/icons/layouts out. MIT.
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -2324,7 +2324,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
@@ -2461,7 +2461,6 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -2727,7 +2726,7 @@
 - [irfansofyana/ai-marketplace](https://github.com/irfansofyana/ai-marketplace) - My own personal ai marketplace contains opinionated agents, skills, commands
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [LLMpsycho/claude-select](https://github.com/LLMpsycho/claude-select) - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [truefoundry/llm-locust](https://github.com/truefoundry/llm-locust) - LLM Locust combines the simplicity of Locust with deep support for LLM-specific benchmarking
 - [bxcodec/golang-ddd-modular-monolith-with-hexagonal](https://github.com/bxcodec/golang-ddd-modular-monolith-with-hexagonal) - Golang example project following DDD design in Modular Monolith with Hexagonal Architecture
@@ -3138,7 +3137,7 @@
 
 ## rag 
 
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
