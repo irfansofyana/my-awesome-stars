@@ -2657,6 +2657,7 @@
 
 ## others 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [sofianhw/ontology-graph-cli](https://github.com/sofianhw/ontology-graph-cli) - Build auditable knowledge graphs from PRDs and product documents. CLI and standalone agent skills for PDF, DOCX, Markdown, and text.
 - [https-deeplearning-ai/sc-spec-driven-development-files](https://github.com/https-deeplearning-ai/sc-spec-driven-development-files) - All materials needed to follow along with the Spec-Driven Development with Coding Agents course, built in partnership with JetBrains
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
