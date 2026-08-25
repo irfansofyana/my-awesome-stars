@@ -2691,7 +2691,7 @@
 - [LiteLLM-Labs/lite-harness](https://github.com/LiteLLM-Labs/lite-harness) - Unified API for running OpenCode, Claude Code, Codex agents
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
+- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) - A suite of plugins for legal workflows
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
