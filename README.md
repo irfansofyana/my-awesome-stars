@@ -67,6 +67,7 @@
 - [muhammadhasan01/cp](https://github.com/muhammadhasan01/cp) - Collection of My Competitive Programming Codes
 - [dragonslayerx/Competitive-Programming-Repository](https://github.com/dragonslayerx/Competitive-Programming-Repository) - Competitive Programming templates that I used during the past few years.
 - [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm) - C++ Implementation of Algorithms (aka. Spaghetti Source)
+- [BedirT/ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation) - ACM-ICPC Preparation Guide
 - [mostafa-saad/ArabicCompetitiveProgramming](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) - The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.
 
 ## CSS 
@@ -808,7 +809,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [BedirT/ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation) - ACM-ICPC Preparation Guide
 
 ## Ruby 
 
@@ -918,6 +918,8 @@
 
 ## TypeScript 
 
+- [xynogen/pix-mono](https://github.com/xynogen/pix-mono) - Monorepo of Pix, Distro of PI Coding Agent
+- [davis7dotsh/my-pi-setup](https://github.com/davis7dotsh/my-pi-setup) - The setup I use for pi. Changes a ton, don't recommend hard copying it, just a taste of what's possible with it
 - [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE - The Vibe You Need
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [https-deeplearning-ai/sc-spec-driven-development-files](https://github.com/https-deeplearning-ai/sc-spec-driven-development-files) - All materials needed to follow along with the Spec-Driven Development with Coding Agents course, built in partnership with JetBrains
