@@ -954,7 +954,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat 💬🚀
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
