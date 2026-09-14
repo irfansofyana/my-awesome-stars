@@ -2698,6 +2698,7 @@
 
 ## others 
 
+- [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [langchain-ai/deep-agents-from-scratch](https://github.com/langchain-ai/deep-agents-from-scratch) - 
 - [xynogen/pix-mono](https://github.com/xynogen/pix-mono) - Monorepo of Pix, Distro of PI Coding Agent
 - [davis7dotsh/my-pi-setup](https://github.com/davis7dotsh/my-pi-setup) - The setup I use for pi. Changes a ton, don't recommend hard copying it, just a taste of what's possible with it
