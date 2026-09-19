@@ -2828,7 +2828,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [donvito/ai-backends](https://github.com/donvito/ai-backends) - AI API server for common use cases — supports multiple models and providers. Run locally with Ollama or LM Studio, or in the cloud via OpenRouter, OpenAI, Anthropic, or Google.
+- [donvito/ai-backends](https://github.com/donvito/ai-backends) - API server runtime for common AI use cases — supports multiple models and providers. Run locally with Ollama or LM Studio, or in the cloud via OpenRouter, OpenAI, Anthropic, or Google.
 - [remotebrowser/remotebrowser](https://github.com/remotebrowser/remotebrowser) - Free your data
 - [irfansofyana/tools](https://github.com/irfansofyana/tools) - Useful browser utilities for everyday digital work
 - [RasaHQ/rasa-sdk](https://github.com/RasaHQ/rasa-sdk) - SDK for the development of custom actions for Rasa
