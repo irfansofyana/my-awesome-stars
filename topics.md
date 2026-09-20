@@ -2715,6 +2715,7 @@
 
 ## others 
 
+- [baristaze/swe_guidelines](https://github.com/baristaze/swe_guidelines) - Software Design and Architecture Guideline by Baris Taze
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [langchain-ai/deep-agents-from-scratch](https://github.com/langchain-ai/deep-agents-from-scratch) - 
