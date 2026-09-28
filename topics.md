@@ -2785,6 +2785,7 @@
 
 ## others 
 
+- [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.
 - [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [carnot-tech/consulting-pptx-skill](https://github.com/carnot-tech/consulting-pptx-skill) - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック
