@@ -936,6 +936,7 @@
 
 ## TypeScript 
 
+- [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
