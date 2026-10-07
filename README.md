@@ -286,7 +286,7 @@
 
 ## HTML 
 
-- [carnot-tech/consulting-pptx-skill](https://github.com/carnot-tech/consulting-pptx-skill) - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック
+- [carnot-tech/consulting-pptx-skill](https://github.com/carnot-tech/consulting-pptx-skill) - AIにまじなPPTXを作らせるClaude Codeスキル
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -951,7 +951,7 @@
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [xynogen/pix-mono](https://github.com/xynogen/pix-mono) - Monorepo of Pix, Distro of PI Coding Agent
 - [davis7dotsh/my-pi-setup](https://github.com/davis7dotsh/my-pi-setup) - The setup I use for pi. Changes a ton, don't recommend hard copying it, just a taste of what's possible with it
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE - The Vibe You Need
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [https-deeplearning-ai/sc-spec-driven-development-files](https://github.com/https-deeplearning-ai/sc-spec-driven-development-files) - All materials needed to follow along with the Spec-Driven Development with Coding Agents course, built in partnership with JetBrains
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
