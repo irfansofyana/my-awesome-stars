@@ -2821,6 +2821,7 @@
 
 ## others 
 
+- [amosblomqvist/learn](https://github.com/amosblomqvist/learn) - My AI learning system.
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
 - [championswimmer/pi-subagent-manager](https://github.com/championswimmer/pi-subagent-manager) - Hierarchical, steerable subagent threads for pi
 - [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) - OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
