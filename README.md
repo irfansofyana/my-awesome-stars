@@ -957,6 +957,7 @@
 
 ## TypeScript 
 
+- [AxiomatAI/dojo-hub](https://github.com/AxiomatAI/dojo-hub) - DojoHub is a self-hosted, enterprise-grade registry for AI agent skills (SKILL.md), with SSO, security scanning, BYOK LLM verification, team approval workflows, and npx skills compatibility.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -1048,7 +1049,7 @@
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
