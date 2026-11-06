@@ -110,7 +110,6 @@
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse) - Manage worktrees without managing worktrees.
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
@@ -747,7 +746,7 @@
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [apw124/logseq-mcp](https://github.com/apw124/logseq-mcp) - MCP Server for interacting with LogSeq graph
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An
 - [daswer123/mcpo-control-panel](https://github.com/daswer123/mcpo-control-panel) - Web UI and API for managing MCP Orchestrator (mcpo) instances and configurations
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -958,6 +957,7 @@
 
 ## TypeScript 
 
+- [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 - [AxiomatAI/dojo-hub](https://github.com/AxiomatAI/dojo-hub) - DojoHub is a self-hosted, enterprise-grade registry for AI agent skills (SKILL.md), with SSO, security scanning, BYOK LLM verification, team approval workflows, and npx skills compatibility.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
@@ -974,9 +974,10 @@
 - [ilhamfp/pasal](https://github.com/ilhamfp/pasal) - Pasal.id - The first open, AI-native Indonesian legal platform. MCP server + REST API + web app giving AI grounded access Indonesian laws.
 - [zxkane/openhands-infra](https://github.com/zxkane/openhands-infra) - 🚀 Self-host your AI coding agent on AWS — fully serverless with ECS Fargate. Zero idle cost, per-conversation isolation, Bedrock LLM. Deploy with CDK in minutes.
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [xynogen/pix-mono](https://github.com/xynogen/pix-mono) - Monorepo of Pix, Distro of PI Coding Agent
 - [davis7dotsh/my-pi-setup](https://github.com/davis7dotsh/my-pi-setup) - The setup I use for pi. Changes a ton, don't recommend hard copying it, just a taste of what's possible with it
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) - ThinkRail is the agentic IDE that gets better every time you use it
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [https-deeplearning-ai/sc-spec-driven-development-files](https://github.com/https-deeplearning-ai/sc-spec-driven-development-files) - All materials needed to follow along with the Spec-Driven Development with Coding Agents course, built in partnership with JetBrains
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
