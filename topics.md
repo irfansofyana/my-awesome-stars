@@ -304,15 +304,16 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 
 ## agents 
 
@@ -412,7 +413,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -545,7 +546,7 @@
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -562,9 +563,10 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -1000,12 +1002,12 @@
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp) - A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude. Allow you to control your Ghost blog by simply asking Claude etc.
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -1061,7 +1063,7 @@
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [irahardianto/awesome-agv](https://github.com/irahardianto/awesome-agv) - Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents.
@@ -1079,13 +1081,13 @@
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) - Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
@@ -1101,7 +1103,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 
 ## cli 
 
@@ -1126,6 +1128,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -1194,7 +1197,7 @@
 - [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse) - Manage worktrees without managing worktrees.
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1423,7 +1426,7 @@
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -2499,7 +2502,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
@@ -2516,11 +2519,12 @@
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp) - A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude. Allow you to control your Ghost blog by simply asking Claude etc.
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -2783,7 +2787,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [piotrkulpinski/open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) - Curated list of open source alternatives to proprietary software.
@@ -2816,7 +2820,7 @@
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -2868,7 +2872,7 @@
 - [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) - OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [anthropics/claude-code-playground](https://github.com/anthropics/claude-code-playground) - 
 - [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.
-- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+- [dream-num/univer](https://github.com/dream-num/univer) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [carnot-tech/jinba-consulting-pptx-skill](https://github.com/carnot-tech/jinba-consulting-pptx-skill) - AIにまじなPPTXを作らせる Claude Code / Codex スキル
 - [baristaze/swe_guidelines](https://github.com/baristaze/swe_guidelines) - Software Design and Architecture Guideline by Baris Taze
@@ -3234,7 +3238,7 @@
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
