@@ -957,6 +957,7 @@
 
 ## TypeScript 
 
+- [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) - Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.
 - [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 - [AxiomatAI/dojo-hub](https://github.com/AxiomatAI/dojo-hub) - DojoHub is a self-hosted, enterprise-grade registry for AI agent skills (SKILL.md), with SSO, security scanning, BYOK LLM verification, team approval workflows, and npx skills compatibility.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
