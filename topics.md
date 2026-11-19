@@ -211,6 +211,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -292,7 +293,7 @@
 
 ## agent-skills 
 
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [zxkane/autonomous-dev-team](https://github.com/zxkane/autonomous-dev-team) - Turns issues into merged PRs/MRs with zero human intervention — supports GitHub and GitLab, and Claude Code, Codex CLI, Kiro CLI, Antigravitiy CLI, opencode, and other agent CLIs.
@@ -324,7 +325,7 @@
 
 ## agentic-ai 
 
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
@@ -1063,7 +1064,7 @@
 
 ## claude-code 
 
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) - Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -3722,7 +3723,7 @@
 
 ## skills 
 
-- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -3784,6 +3785,13 @@
 ## stable-diffusion 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+## static-site-generator 
+
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## svelte 
 
