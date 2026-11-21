@@ -640,6 +640,7 @@
 
 ## Python 
 
+- [veritrans/midtrans-agent-skills](https://github.com/veritrans/midtrans-agent-skills) - AI Agents skill integration for Midtrans
 - [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation
 - [BerriAI/liteagents](https://github.com/BerriAI/liteagents) - A provider-independent agent SDK with the same query() interface as the Claude Agent SDK, allowing you to use the right model for every turn.
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
