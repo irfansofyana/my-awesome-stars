@@ -299,7 +299,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
